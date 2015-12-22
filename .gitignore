@@ -4,3 +4,4 @@ obj
 *.suo
 *.user
 pingme.txt
+/runtime/vs2012/MemTrace.sdf
